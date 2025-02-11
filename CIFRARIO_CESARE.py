@@ -39,6 +39,9 @@ def main():
                     OUTPUT.write(new_ch.lower())
                 else:
                     OUTPUT.write(ch)
+            
+            print("Burro mi succhia le palle")
+            
     OUTPUT.close()
     FILE.close()
                     
